@@ -14,3 +14,5 @@ Sentence Transformers
 HuggingFace Transformers
 FLAN-T5
 Streamlit
+
+![Demo](images/Demo.jpg.jpg)
