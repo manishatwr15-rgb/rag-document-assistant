@@ -1,0 +1,3 @@
+Embeddings are numerical representations of text.
+They convert words into vectors so computers can understand meaning.
+Embeddings help in search, clustering, and recommendation systems.Wg
