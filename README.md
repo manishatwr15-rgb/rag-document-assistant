@@ -15,4 +15,5 @@ HuggingFace Transformers
 FLAN-T5
 Streamlit
 
+# Demo image
 ![Demo](images/Demo.jpg.jpg)
